@@ -17,8 +17,6 @@ variables:
   # Environment name
   environmentName: 'library-service-aas'
 
-  # Agent VM image name
-  vmImageName: 'ubuntu-latest'
 
 stages:
 - stage: Build
